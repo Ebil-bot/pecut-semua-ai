@@ -1,7 +1,7 @@
-# ⚡ pecut-semua-ai (Simulator Pecut AI)
+# ⚡ Pecut semua AI (Simulator Pecut AI)
 
 > **Murni Efek Visual & Audio Cambukan Realistis — 100% Tanpa Macro / Injeksi Teks ke Terminal!**  
-> *Dibuat dengan REA.*
+> 
 
 ---
 
@@ -134,4 +134,4 @@ npm run stop
 - Dilisensikan di bawah lisensi [MIT](LICENSE).
 - Konsep dasar & aset asli dari proyek OpenWhip oleh [GitFrog1111](https://github.com/GitFrog1111/OpenWhip).
 - Referensi panduan instalasi awal dari fork [stavasol96-arch/openwhip-guide](https://github.com/stavasol96-arch/openwhip-guide).
-- Rekonstruksi & implementasi safe simulator oleh [Ebil-bot](https://github.com/Ebil-bot) (Dibuat dengan REA).
+- Rekonstruksi & implementasi safe simulator oleh [Ebil-bot](https://github.com/Ebil-bot) (Dibuat dengan Hermes).
